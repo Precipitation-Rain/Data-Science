@@ -1,0 +1,4 @@
+1) When you found outliers in dataset,alwyas go and check whether they really outliers or they are genuine data(with high value). 
+Check thier feasibility and other values(other respective column values) => tells you they are outliers or genuine data .
+
+2) ideally we select most imp column(target) or columns and then do bivarite analysis of each other column with that imp column.
