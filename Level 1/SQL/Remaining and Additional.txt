@@ -1,0 +1,63 @@
+Reamings:
+1)
+Session on Tableau – Olympics Dataset (Part 1)
+Download and Install Tableau
+Getting Started with Tableau Desktop
+Overview of Olympic datasets
+Create Dashboards using Tableau
+
+2)
+Session on Tableau – Part 2
+Tableau Basics
+Importing Data
+Measures and Dimensions
+Sheet, dashboard, story
+Levels of Granularity
+Different types of charts
+Datetime
+Hierarchical level of granularity
+Common filters
+Calculated fields and Table Calculations
+Working with Geographical columns
+Dashboard and Interactive filters
+Blending and Dual axis chart
+Connecting to a remote database
+
+3)
+Session on SQL Case Study 1 – Zomato Dataset
+Understanding Dataset through diagram
+Solving SQL Questions on Zomato Dataset 
+
+4)
+Session on Making a Flight Dashboard using Python and SQL
+How to Connect MYSQL through Python
+Run SQL queries with Python
+Creating a dynamic dashboard with Streamlit on Flights dataset
+
+5)
+Session on SQL Interview Questions – Part 1
+Database Server Vs Database Client
+Database Engines
+Components of DBMS
+What is Collation?
+COUNT(*) vs COUNT(col)
+Dealing with NULL values
+DELETE Vs TRUNCATE
+Anti joins
+Non-equi joins
+Natural joins
+All and Any operators
+Removing Duplicate Rows
+Metadata Queries
+
+6)
+Session on Data Cleaning using SQL | Laptop Dataset
+Basic level Data Cleaning and Data exploration using SQL
+Why to use SQL for Data Cleaning
+String Data types
+Wildcards
+String Functions
+Data Cleaning
+
+
+

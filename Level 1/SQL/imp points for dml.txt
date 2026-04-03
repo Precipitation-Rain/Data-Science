@@ -1,0 +1,10 @@
+1.insert
+insert single row
+with column names
+without column names
+order of entering value
+inserting multiple values
+
+2.select(the  most imp query)
+
+why w need to learn the sql and databses for data scientist

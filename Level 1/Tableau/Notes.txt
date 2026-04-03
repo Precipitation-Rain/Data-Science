@@ -1,0 +1,11 @@
+content:
+1) Installation
+2)Information
+3)How to connect to data
+4)Understanding UI
+5)Dimensions and Measures
+6)Discreate and Continuous
+7)Hierarchy - drill up , drill down
+8)granularity , level of view , marks 
+9)marks , axes , headers
+10)Differnt charts
