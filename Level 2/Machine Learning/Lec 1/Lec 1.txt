@@ -1,0 +1,18 @@
+Lec - 1:
+1) As well as algorithm you also need to know end to end flow of how to make ml Project
+2) what make one ml engineer diff from another => knowladge about small things 1.missing values impuation, outlier handling , bias - varaience tadeoff , undelying understanding
+3)ML is all bout learning from data
+4) When ml is more useful :
+    1.When you can't write conditions for all cases . ex) Email Spam Classifier
+    2.explicit programming is valid upto that syntax
+    ex.you write program for addition of two  numbers , but this program never calculate the three numbers sum
+    but if you givae i/p and o/p to ml then it automatically picks patter of sum , then you can give as many numbers you want
+    3.Image classification , dog Vs cat
+    4.Data Minning
+5) Ml history like nazwdding siddki
+    data and Hardware
+6) Job Situatations => on Risisng Curve
+
+
+
+

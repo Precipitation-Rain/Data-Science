@@ -1,0 +1,14 @@
+Online Machine Learning:
+1) Same as Batch one main Diff: It do prediction on new data + learn from that data(Incremental Learning)
+            Batch Learning : Only Prediction + non learning(No Increamental Learning)
+
+2)River Library => For Online Machine Learning
+vowpal wabbit is also one Library
+sklearn is mostly deals with static machine learning
+
+3) Out of core learning Concept
+
+4) Disadvantages:
+Tricky to use => not so many tools avilable
+Risky : What if data get soiled => model shows that data
+    => solution => online monitoting system

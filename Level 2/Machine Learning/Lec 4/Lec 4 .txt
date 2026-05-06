@@ -1,0 +1,13 @@
+1) What is production
+2) Production Envirment
+
+3) Integrate the ml model of US Accidents Dataset in streamlit dashbaord
+4) Our most of the projects are batch machine learning projects
+    Train our model on loacl machine
+    deploy it at server 
+    perodically update it => so you never miss a update => Prodic model
+    Fails in certain Scenarios
+    1.Lost of data => your local machine does not support it
+    2.Hardware limitation => Drone , sattleite model
+    3.Avilabilty => When ifno is needed at super fat level
+

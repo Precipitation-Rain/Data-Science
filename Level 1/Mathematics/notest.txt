@@ -1,0 +1,28 @@
+## Measure of Central Tendency:
+
+1) stats is used to the gain insights from the data or do predictions on the data
+# most imp for learning in descriptive stastics
+2) When you see column , you should have understanding about data type of that column
+3) mean has faluse : Outlier(When dataset has outliers then mean does not give right representation) . always check before using mean
+4) When your dataset has outlier the you use median ex) collge avg package
+5) when you are dealing with categorical columns or discreate numerical column , mode may be useful
+6) trimmed mean in also used to reducing impact of outlier
+
+
+## Measures of Dispersion:
+
+1) range affeted b y outliers
+2) why we do sqare of differnce between mean and value => to make all values positive , 
+then why not the mod => this make new measure mean absolute devaition(mad) 
+why we did not use mad => we cannot calculate the inference using mad
+3) varience is more prone to outliers 
+mad is less prone to outliers
+4) var doesn't give the exact spread , it gives the proportion
+5) as like mean the var has two types
+population ka var and sample ka var
+6) standard deviation use : has same unit as data
+
+Lec : Normal Distribution
+
+1) pdf is used in featrure selection. Create boundires => iris example
+2)If you make some conclusion using the pdf then cdf can tell you how good and how bad are you about that conclusion.It quantifies your conclusion.Ex) AAp kitne sahi ho aur kitne galat hoo

@@ -1,0 +1,22 @@
+1) AI(Mostly about pattern recognition)
+symbolic ai(Knoladge Graph) => So many If -Else Conditions  ========>>  Expert systems(Playing chess against computer) => has some flaws
+1. Limites to specific Problems like Playinitiong chess 
+2.Cannot handle situations like Image recogn
+
+Now ML come into Picture :
+what makes ml differnt from the Expert system is Ml does not do explicit programming
+We do not write if else conditions like expert system 
+we give data and output the ml algorithm try to find patterns in the data and make rules => simple idea rules kyu likhne hain sahi data do model khud rule bayega
+
+Why Dl comes into picture:
+1. In Ml we make feature by ourselves , in DL Model itself make features
+ex) Dog vs cat classification
+2.No of data and neuron layers directly proportional to the accurcay of DL Model,This does not fully true in case of ML
+
+
+Why use Dl instead of ML:
+The worlds 90 % data is small data , and ml works good on small data , DL works good on Big data
+
+
+
+

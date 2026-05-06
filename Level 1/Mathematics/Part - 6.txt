@@ -1,0 +1,3 @@
+#Central limit theorem:
+1) it makes things easy ex) calculating the avg salary of india
+2)

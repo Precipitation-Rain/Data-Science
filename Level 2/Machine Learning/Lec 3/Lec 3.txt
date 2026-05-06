@@ -1,0 +1,37 @@
+1) Types of ML based on amount of supervision needed
+2) most of ML is supervised machine learning
+
+3) Ask two quetions 
+1.Does Data have input and output
+2.That o/p column in numerical or categorical
+    if numerical => Regression
+    if categorical => classification
+
+4) Clustering:
+    can convert into Supervised ML
+    Make groups / Clusters
+
+5) Dimesionalisty Reduction:
+Converting High Dimensional Data to Low Dimensional
+PCA
+Visualisation
+
+6)Abamoly Detection:
+Kuch to gadbad hain re baba
+Credit card fraud Detection
+
+7) Association rule learning:
+Beer and diper story
+- how to arrage item in supermarkets
+
+8)Semisupervvised:
+- Labelling the output columns
+- label one or two values of first then remaings get lablled by itself
+- ex.Google photos
+
+9)Reinforcement Learning:
+- action reward and penelty
+- deepming -> alpha go
+
+Note:
+in us accidents dataset we can build the model in ml in which we can predict the level of severity from input columns
