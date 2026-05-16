@@ -1,0 +1,30 @@
+1) Keys:
+primary Keys and its rules
+candidate Key
+composite Key
+foregin Key
+surrogate Key
+natural Key
+
+2) refenrential integrity and foregin key cascade rules
+3) What is normalization
+- 1NF
+- 2NF
+- 3NF
+4) what is acid
+5) transaction 
+- commit 
+- rollback
+- savepoint
+- begin
+6) what is denormalisation
+7)constraints
+- not null
+- unique
+- check
+- default
+
+
+Notes :
+1] Whenever you see a table that tracks a relationship between two things over time or two things together — always think composite primary key of those two things.
+2] solation is about two database transactions reading or writing the same data at the same time and not interfering with each other.

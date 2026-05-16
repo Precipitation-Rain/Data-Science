@@ -1,0 +1,14 @@
+Todays Learning :
+ 1.Whats is Database
+ 2.applications of databases
+ 3.types of databases
+ 4.Structure of Relationsl Database
+ 5.Data types
+ 6.OLTP Vs OLAP
+ 7.Schema
+ 8.Start Schema vs Snowflake Schema
+ 9.Database Vs Datawarehouse
+ 10.What is DBMS
+ 11.Functions of DBMS
+
+
