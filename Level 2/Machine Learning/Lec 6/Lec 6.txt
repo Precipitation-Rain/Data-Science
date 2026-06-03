@@ -1,0 +1,12 @@
+When you see new model try to find does it memorizing the data or finding underlying principles
+
+Instance Based Learning:
+2.Model does not try to find patterns, when new point comes model finds similarity and give result.
+3.For each new point you need dataset.
+1.Known as lazy learning
+
+Model Based Learning:
+1.When algorithm sees data it tries to find mathematical replationship between input and output.
+2.Model learns patterns from the data.
+3.After learning pattern or drawing decision boundry you will not need of the dataset , caz now you have that decision boundry.
+

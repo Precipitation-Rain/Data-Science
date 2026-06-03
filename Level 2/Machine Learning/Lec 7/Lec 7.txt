@@ -1,0 +1,47 @@
+Problems in Machine learning :
+
+1. Data Gathering 
+- not easily avilable at csv file format
+
+2.Insufficient Data / unlabelled data 
+Unresonable effectiveness of data
+
+3.No represntativenes of data
+- sampling noise 
+- sampling bias
+- class imbalanace
+- ex .cricket world cup surbvery => which team will win ? 
+
+4.Poor quality of the data
+- missing values 
+- null valuess
+- outliers
+- no gaussian distribution
+- abrutpy values 
+- not in right format
+60 % of time on data cleaning.
+
+5. Irrelevat features:
+- which one to keep , which one to remove
+- ex. which one is fir based on age, height , weight , color => color is nonsennse column => remove it
+Garbage in garbage outliers
+
+6.Overfitting:
+- villian of the machine learning field.
+- each algo will overfit , so that you have to learn them in such way thay your model will not overfit.
+- Ex} gurgram movies hall => ticket price so high => you assueme whole gurgram is expensive that about overfitting.
+- model memorize the data instead of uderstanding the patterns.
+
+7.Underfitting
+- model won't work on taring data as well as the testing data.
+
+8.Software integration:
+- integrating the machine learning model into the A software.
+- always build end to end product.
+
+9.Offline learning and deployment:
+- deployment is difficult and expensive
+
+10. Cost involved:
+- how much cost is invoved in the that system.
+
