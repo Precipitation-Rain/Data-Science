@@ -1,0 +1,18 @@
+1) Retail:
+- amazon sales 
+- which to stock up which to stock down
+
+- selling our data -> degital profile to dvertisement companies
+- association based learning
+
+- where to keep each iten in reatil bazar
+
+
+2) Finanace and Banking
+- who will deafult
+- load defaulter
+
+
+3) Transport:
+- uber app -> kolkata -> asking driver to come in the high demand ares -> asking for more money -> demand forecasting 
+- 
