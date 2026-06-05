@@ -1,0 +1,56 @@
+- Focus on How
+
+
+1] Framing the problem :
+- answer all question 
+ex) which tyep of data needed
+from whwre you gather it
+which algo you will use
+batch/online learning
+where you deploy
+like all question you wulll try to answer ..-> why beacue in real world project involes so much cost , so one mistake can cost so much damage
+
+2] Gathering the Data:
+- thriugh api , json , database , web scaping
+- gathering data from all sorce and keeping in right format
+
+3]Data preprocessing:
+- Data will always messy and dirty ex.outliers , missing values , noisey data , not scaled , dupliactes , not in right format
+- Bringing the data in such format so that ML Model can consume it
+
+4] EDA
+- study relationship between input and output
+- so many experimnts with data and rty to understand data at very small granular level
+- visualization
+- univariate analysis
+- biravarite analysis
+- multivaraite analysis
+- outlier detection
+- imbalaced data => balanced data
+
+5]Feature Engnerring and selection
+- reducing features
+- creating new features
+- selecting only useful featrures
+
+6] Model Traing , evaluation and selection:
+- use all algo ans choose one which gives best result
+- use teachniques like bagging , boosing , ensumble learning and hyperparameter tunning
+- slecte one Model
+
+7] Deployment:
+- deploy on server so all users can acees it
+
+8] Testing
+- roll out version for the loyal customers base on their feedback , you either update or make it accesible for all
+- A/B Testing
+
+9] Optimize :
+- monitor and
+- take model and data backup
+- roll back to previos version
+- load balancing
+- how frewurntly return(rotting)
+- reduce the cost
+
+
