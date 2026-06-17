@@ -1,0 +1,29 @@
+What is tensor :
+- data structure
+- container that store number , very rarely it stores the charcter or any other thing
+- base of all ML Systems
+
+
+0D Tensor:
+- has only 1 number
+- also known as the scalar
+
+1D Tensor:
+- also know as the vector
+- no of dimension = no of axes = no of rank
+- ex] [1,2,3,4,5] => 1D Tensor => vector => It is 5D Vector => No of items in list = No of dimension in vector
+- nD is formed  y the group of the (n - 1)D
+
+2D Tensor:
+- known as the matrix
+- colections of the 1D tensors
+
+# Rank = No of Axis = No of dimension 
+# Shape = no of rows and columns 
+# size = multiplication od all numbers int the Shape
+
+ex.shape = (3,4)
+size = 12
+
+# Example of 1D tensor:
+- student table , 4 columns = [cgpa , state , iq , isPlaced]

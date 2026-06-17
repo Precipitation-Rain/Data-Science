@@ -1,0 +1,47 @@
+product_id,product_name,category_id,price,stock_qty
+1,Samsung Galaxy M14,1,12999,150
+2,OnePlus Nord CE 3,1,24999,80
+3,Realme Narzo 60,1,15999,120
+4,boAt Rockerz 450,1,1499,300
+5,JBL Flip 6,1,8999,90
+6,Sony WH-1000XM5,1,29999,40
+7,Lenovo IdeaPad 3,1,45999,30
+8,HP Pavilion 15,1,52999,25
+9,Redmi Note 13,1,18999,200
+10,Apple AirPods Pro,1,19999,60
+11,Levis Mens Jeans,2,2499,200
+12,Allen Solly Shirt,2,1299,150
+13,Zara Womens Dress,2,3499,100
+14,Nike Running Shoes,2,5999,80
+15,Adidas T-Shirt,2,999,300
+16,HM Formal Trousers,2,1799,120
+17,Puma Sneakers,2,4499,90
+18,Wrangler Casual Shirt,2,1599,180
+19,The Alchemist,3,299,500
+20,Atomic Habits,3,449,400
+21,Rich Dad Poor Dad,3,349,350
+22,Wings of Fire,3,199,600
+23,The Psychology of Money,3,399,300
+24,Ikigai,3,299,450
+25,Deep Work,3,499,200
+26,Prestige Iris 750W Mixer,4,2799,100
+27,Philips Air Fryer,4,8999,60
+28,Milton Water Bottle,4,499,400
+29,Pigeon Pressure Cooker,4,1299,150
+30,Wipro LED Bulb 9W,4,149,1000
+31,Cello Storage Box,4,349,300
+32,Cosco Football,5,799,200
+33,Yonex Badminton Racket,5,1499,150
+34,Nivia Cricket Bat,5,1999,100
+35,Boldfit Yoga Mat,5,699,250
+36,Lacoste Wristband,5,499,300
+37,Lakme Lipstick,6,299,500
+38,Himalaya Face Wash,6,149,800
+39,Dove Body Lotion,6,249,600
+40,Maybelline Foundation,6,599,300
+41,Biotique Shampoo,6,199,700
+42,Lego Classic Set,7,2999,80
+43,Funskool Board Game,7,799,120
+44,Hot Wheels Car Set,7,499,200
+45,Barbie Doll,7,899,150
+46,Rubiks Cube,7,299,400
